@@ -1,0 +1,4 @@
+#Tue Aug 15 18:49:48 NPT 2023
+base.0=C\:\\Users\\aasis\\Desktop\\ecommerce-app-with-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
